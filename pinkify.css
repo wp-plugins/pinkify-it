@@ -1,0 +1,10 @@
+*, *:before  {
+	background: deeppink!important;
+	color: pink!important;
+	font-weight: bold!important;
+}
+
+
+#wpadminbar, #wpadminbar *, #wpadminbar *:before {
+	background: MediumVioletRed!important;
+}
