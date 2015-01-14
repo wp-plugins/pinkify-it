@@ -28,11 +28,13 @@
 
 add_action( 'wp_enqueue_scripts', 'saf_pinkify_styles' );
 
-   function saf_pinkify_styles() {
+  function saf_pinkify_styles() {
        wp_register_style( 'saf-pinkify', plugins_url('pinkify.css', __FILE__)  );
        wp_enqueue_style( 'saf-pinkify' );
-   }
+  }
 
+  function saf_enqueue_custom_admin_theme() {
+    wp_enqueue_style( 'saf-enqueue-custom-admin-theme', plugins_url( 'wp-admin.css', __FILE__ ) );
+  }
 
-
-?>
+add_action( 'admin_enqueue_scripts', 'saf_enqueue_custom_admin_theme' );
