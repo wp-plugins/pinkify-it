@@ -45,11 +45,16 @@ I'll let you know later.
 
 == Changelog ==
 
+= 2.0 =
+* Added pink styles to admin
 = 1.0 =
 * Pinkify! plugin was born on September 25, 2014, by Suzette Franck.
 
+
 == Upgrade Notice ==
 
+= 2.0 =
+Please update this plugin to bring pink to the admin screen as well as the front-end.
 = 1.0 =
 No upgrades available at this time.
 
