@@ -3,7 +3,7 @@
  * Plugin Name: Pinkify!
  * Plugin URI: http://suzettefranck.com/pinkify
  * Description: Regardless of your theme, overrides the theme's styles to make everything pretty and pink.
- * Version: 1.0
+ * Version: 2.0
  * Author: Suzette Franck
  * Author URI: http://suzettefranck.com
  * License: GPL2

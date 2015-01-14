@@ -54,8 +54,8 @@ I'll let you know later.
 == Upgrade Notice ==
 
 = 2.0 =
-Please update this plugin to bring pink to the admin screen as well as the front-end.
+* Please update this plugin to bring pink to the admin screen as well as the front-end.
 = 1.0 =
-No upgrades available at this time.
+* No upgrades available at this time.
 
 
