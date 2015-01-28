@@ -1,4 +1,9 @@
 
+/* Special thanks to https://profiles.wordpress.org/meabhisek/ for making the Romance Admin Color Scheme plugin,
+the below code is borrowed from that plugin, which is awesome if you only want to make your back-end pink 
+and not your theme. Props Abhisek @increasy ! */
+
+
 html {
   background: #f3f3f3; }
 
@@ -310,4 +315,3 @@ div#wp-responsive-toggle a:before {
 
 .wp-responsive-open #wpadminbar #wp-admin-bar-menu-toggle a {
   background: #ff7dba; }
-  
