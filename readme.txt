@@ -1,7 +1,7 @@
 === Pinkify It! ===
 Contributors: suzettefranck
 Donate link: http://suzettefranck.com/donate
-Tags: pink, theme
+Tags: pink, theme, pinky, pinkify, admin
 Requires at least: 3.4
 Tested up to: 4.1
 Stable tag: 4.1
@@ -45,6 +45,9 @@ I'll let you know later.
 
 == Changelog ==
 
+
+= 2.1 =
+* Changed admin styles to romance color theme styles
 = 2.0 =
 * Added pink styles to admin
 = 1.0 =
@@ -53,6 +56,8 @@ I'll let you know later.
 
 == Upgrade Notice ==
 
+= 2.1 =
+* Please update to view the new romance admin color scheme.
 = 2.0 =
 * Please update this plugin to bring pink to the admin screen as well as the front-end.
 = 1.0 =
