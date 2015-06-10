@@ -8,7 +8,7 @@ Stable tag: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Join the pink craze and make your theme pink easily.
+Join the pink craze and make your theme pink easily and effortlessly.
 
 == Description ==
 
